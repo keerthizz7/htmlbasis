@@ -1,0 +1,33 @@
+body{
+     margin:20vh;
+     margin:25vh;
+}
+.main{
+      background-color: blue;
+      height:40vh;
+      width:40vh;
+      border:5px solid brown;
+
+}
+.in{
+     padding:15vh;
+     
+}
+.side{
+      background-color: beige;
+      height:30vh;
+      width:40vh;
+      border: 5px solid greenyellow;
+}
+.out{
+    padding:15vh;
+}
+.corner{
+    background-color:rgb(162, 102, 102);
+    height:45vh;
+    width:50vh;
+    border: 6px solid blue;
+}
+.border{
+    padding:20vh;
+}
